@@ -10,7 +10,7 @@ type Tier = 'simple' | 'routine' | 'hard'
 type Level = 'low' | 'medium' | 'high'
 
 const PLAN: Record<Tier, { model: string; effort: Level }> = {
-  simple: { model: 'haiku', effort: 'low' },
+  simple: { model: 'sonnet', effort: 'low' },
   routine: { model: 'sonnet', effort: 'medium' },
   hard: { model: 'sonnet', effort: 'high' },
 }
