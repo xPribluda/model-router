@@ -4,7 +4,7 @@ A Claude Code mod. On every message you send, a cheap Haiku call sorts the messa
 
 | Tier | Model | Thinking |
 |---|---|---|
-| simple | Haiku | low |
+| simple | Sonnet | low |
 | routine | Sonnet | medium |
 | hard | Sonnet (toast offers Opus) | high |
 
